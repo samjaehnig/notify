@@ -1,0 +1,17 @@
+
+
+body {
+  text-align: center;
+  font-family: 'Karla', sans-serif;
+  padding: 200px;
+}
+
+#title {
+  text-align: center;
+  font-size: 100px;
+  margin: 20px;
+}
+
+#blue {
+  color: #52b8c5;
+}

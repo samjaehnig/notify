@@ -1,0 +1,20 @@
+
+#sign-in_button {
+    border: none;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Karla', sans-serif;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #8fdbe4;
+}
+
+#sign-in_button:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+#sign-in_button:focus {
+    outline: none;
+}
+
